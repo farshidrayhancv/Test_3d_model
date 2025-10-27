@@ -18,7 +18,6 @@
   enclosure.  Assembly is completed with four M3 screws joining the
   front and back halves.
 
-  Author: ChatGPT, October 2025
 */
 
 $fn = 64;
